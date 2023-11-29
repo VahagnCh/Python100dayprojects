@@ -1,3 +1,4 @@
+#!/usr/bin/env
 import random
 from art import logo
 
